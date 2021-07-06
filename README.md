@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-As a junior backend developer student, I'm learning on how to build robust backends with the Symfony framework for applications. I'm also interested in computer security, pen-testing, design and music, as well as promising technologies such as Blockchain.
+As a junior backend developer student, I'm learning how to build robust backends with the Symfony framework for applications. I'm also interested in computer security, pen-testing, design and music, as well as promising technologies such as Blockchain.
   
 
 <br/>  
