@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-As a junior backend developer, I work on building robust backends with the Symfony framework for your application or website. I like to design lightweight and powerful systems, distributed but synchronized, beautiful and efficient. I'm also interested in how databases work, computer security and pen-testing, design and music, as well as promising technologies such as Blockchain.  
+As a junior backend developer student, I'm learning on how to build robust backends with the Symfony framework for applications. I'm also interested in computer security, pen-testing, design and music, as well as promising technologies such as Blockchain.
   
 
 <br/>  
